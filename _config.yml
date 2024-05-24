@@ -40,7 +40,7 @@ baseurl: "https://www.mycomputer.digital/Fast-pages" # the subpath of your site,
 minima:
   social_links:
     twitter: guler_ercetin
-    github: fastai
+    github: braverclient
 
 # Set this to true to get LaTeX math equation support
 use_math: 
@@ -81,7 +81,7 @@ html_escape:
 
 # Everything below here should be left alone. Modifications may break fastpages
 future: true
-theme: jekyll-theme-tactile
+theme: jekyll-theme-minima
 plugins:
   - jekyll-feed
   - jekyll-gist
