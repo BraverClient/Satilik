@@ -39,8 +39,8 @@ baseurl: "https://www.satilik.shop" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: guler_ercetin
-    github: braverclient
+    twitter: 
+    github: 
 
 # Set this to true to get LaTeX math equation support
 use_math: 
